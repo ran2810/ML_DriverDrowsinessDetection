@@ -1,0 +1,2 @@
+# Ignore all .jpg files in all folders and subfolders
+**/*.jpg
